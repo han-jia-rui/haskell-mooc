@@ -1,16 +1,8 @@
 # Haskell MOOC
 
-<p align="center"><img alt="Course logo" src="img/haskell-mooc-logo.svg" width="400" align="center"></p>
-
-University of Helsinki
-
-[Course page](https://haskell.mooc.fi)
-
-[![License: CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+This is my implementation of the exercises for the Haskell MOOC course by the University of Helsinki. The course is available at [https://haskell.mooc.fi](https://haskell.mooc.fi).
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-_New!_ Exercise repository updated to use GHC 9.2.8! You'll need to rerun `stack build`.
 
 ## About the course
 
@@ -40,6 +32,12 @@ the file. You can check your answers by running
 stack runhaskell SetXTest.hs
 ```
 
+or
+
+```bash
+just test X
+```
+
 in the `exercises/` directory. Remember to replace `X` with the number
 of the set you are working on.
 
@@ -55,5 +53,5 @@ Here are some fixes for common problems with `stack build`:
 ## Reporting errors
 
 If you notice an error in these materials, you can report it via
+
 - an issue or pull request in this repository (see [CONTRIBUTING.md](CONTRIBUTING.md))
-- the course [channel on Telegram](https://t.me/haskell_mooc_fi)
