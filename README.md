@@ -48,7 +48,7 @@ just test X
 in the `exercises/` directory. Remember to replace `X` with the number
 of the set you are working on.
 
-See [the material](part1.html#working-on-the-exercises) for more info.
+See [the material](course/part1.html#working-on-the-exercises) for more info.
 
 ## Reporting errors
 
