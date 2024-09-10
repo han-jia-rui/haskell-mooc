@@ -7,6 +7,10 @@ This work is based on the original work by the University of Helsinki available 
 
 My modifications are also licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
+## Progress
+
+The first half of the course (Sets 1-8) is complete. Work on the second half is currently underway.
+
 ## About the course
 
 This is an online course on Functional Programming that uses the
